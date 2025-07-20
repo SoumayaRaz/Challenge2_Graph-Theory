@@ -110,7 +110,6 @@ Through graph analysis and communication modeling, this project:
 - 👤 **Soumiya Razzouk**  
 - 👤 **Hamidou Kane**  
 - 👤 **Alexandre Kessler**  
-📚 UE GTSMA | 📅 June 2, 2024
 
 ---
 
